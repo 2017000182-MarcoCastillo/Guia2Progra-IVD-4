@@ -3,7 +3,7 @@ Algoritmo sin_titulo
     Definir mes Como Cadena
     Definir dias Como Entero
 	
-    Escribir "Ingrese un número del 1 al 12:"
+    Escribir "Ingrese un nÃºmero del 1 al 12:"
     Leer numero
 	
     Segun numero Hacer
@@ -44,9 +44,9 @@ Algoritmo sin_titulo
             mes <- "Diciembre"
             dias <- 31
         De Otro Modo:
-            Escribir "Número inválido"
+            Escribir "NÃºmero invÃ¡lido"
     FinSegun
 	
     Escribir "Mes: ", mes
-    Escribir "Días: ", dias
+    Escribir "DÃ­as: ", dias
 FinAlgoritmo
